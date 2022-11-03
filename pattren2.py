@@ -1,4 +1,4 @@
-#Numeric pattern using for loop
+#Alpabatic(al) pattern using for loop
 
 n=int(input("Enter the Character A to Z(65 to 90): "))
 for i in range(0,5):
